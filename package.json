@@ -1,0 +1,23 @@
+{
+  "name": "GK3-Aflevering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "endpoints.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TS-legacy/GK3-Aflevering"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TS-legacy/GK3--Aflevering"
+  },
+  "homepage": "https://github.com/TS-legacy/GK3--Aflevering",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
